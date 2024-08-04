@@ -1,0 +1,10 @@
+crewai
+crewai_tools
+langchain
+langchain_groq
+python-dotenv
+ionic-langchain
+langchain_community
+ollama
+google-generativeai
+streamlit
