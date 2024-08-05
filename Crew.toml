@@ -1,4 +1,4 @@
 name = "ShopAssist"
 description = "An AI powered shopping assistant that recommends the top 10 best matches for the requested product anywhere on the internet."
-packages = ["crewai","crewai_tools","langchain","langchain_groq","python-dotenv","ionic-langchain","langchain_community","ollama","google-generativeai","sqlite3>=3.0.0","chromadb"]
+packages = ["crewai","crewai_tools","langchain","langchain_groq","python-dotenv","ionic-langchain","langchain_community","ollama","google-generativeai","chromadb"]
 
