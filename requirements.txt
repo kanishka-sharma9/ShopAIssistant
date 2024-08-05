@@ -8,5 +8,4 @@ langchain_community
 ollama
 google-generativeai
 streamlit
-sqlite3>=3.0.0
 chromadb
